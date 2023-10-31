@@ -3,14 +3,15 @@
 
 ### Commands :
 ``` shell script
-apt update -y
-apt upgrade -y
-pkg install python -y
-pkg install git -y
-pip install requests
 git clone https://github.com/th3wantedboy/Coca-Cola-Fucker
+```
+``` shell script
 cd Coca-Cola-Fucker
+```
+``` shell script
 pip install -r requirements.txt
+```
+``` shell script
 python coca-cola.pyc
 ```
 
