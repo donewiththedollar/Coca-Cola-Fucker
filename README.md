@@ -19,13 +19,3 @@ python coca-cola.pyc
 <li>This Tool Is Only For Educational Purpose</li>
 <li>TH3 WANTED BOY Will Never Be Responsible For Any Misuse</li>
 <li>Use It At Your Own Risk</li>
-
-
-
-
-# Screenshots:
-<img src="https://a.top4top.io/p_2556qdsww0.jpg" alt="ToxicBomber ScreenShot">
-
-### Visitors :
-
-![Visitor Count](https://profile-counter.glitch.me/th3wantedboy/count.svg)
