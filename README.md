@@ -12,7 +12,7 @@ cd Coca-Cola-Fucker
 pip install -r requirements.txt
 ```
 ``` shell script
-python coca-cola.pyc
+python coca-cola.py
 ```
 
 ## Note:
